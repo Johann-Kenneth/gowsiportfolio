@@ -135,6 +135,7 @@ footer {
   .navbar {
     flex-direction: column;
     gap: 10px;
+    position: fixed;
   }
 
   .section h2 {
