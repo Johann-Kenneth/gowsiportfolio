@@ -136,6 +136,7 @@ footer {
     flex-direction: column;
     gap: 10px;
     position: fixed;
+    width: 100%;
   }
 
   .section h2 {
